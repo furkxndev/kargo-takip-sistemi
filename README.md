@@ -14,5 +14,10 @@ Bu proje, Windows Forms kullanılarak geliştirilen bir kargo takip uygulamasıd
 - Kargo durumu güncelleme
 - Kargo sorgulama
 - Dosya üzerinden veri kaydı
-<img width="815" alt="Ekran Resmi 2025-06-07 15 51 57" src="https://github.com/user-attachments/assets/40f13623-3602-43a6-b809-132cde2ee5dd" />
-<img width="799" alt="Ekran Resmi 2025-06-07 15 54 13" src="https://github.com/user-attachments/assets/af519f1a-480b-4923-b6c0-8515987a716f" />
+  
+<img width="801" alt="Ekran Resmi 2025-06-07 16 00 53" src="https://github.com/user-attachments/assets/144487a7-c7f9-4abc-9ef9-016d04623173" />
+
+<img width="800" alt="Ekran Resmi 2025-06-07 15 59 47" src="https://github.com/user-attachments/assets/eedbd885-d404-4b83-83ba-4b8d267d8ec6" />
+
+<img width="799" alt="Ekran Resmi 2025-06-07 16 00 20" src="https://github.com/user-attachments/assets/81480ab6-55aa-439b-9ab9-34270e89d3af" />
+
